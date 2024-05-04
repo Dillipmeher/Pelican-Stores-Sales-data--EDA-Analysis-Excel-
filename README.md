@@ -1,1 +1,1 @@
-# Pelican-Stores-Sales-data--EDA-Analysis-Excel-
+# Pelican_Stores_Sales-data-EDA-Analysis(Excel)
